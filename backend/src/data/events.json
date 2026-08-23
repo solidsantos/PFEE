@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Workshop de Desenvolvimento Web",
+    "description": "Workshop introdutório sobre desenvolvimento web.",
+    "date": "2026-09-15",
+    "time": "14:00",
+    "location": "Universidade Federal do Ceará",
+    "category": "Tecnologia",
+    "organizer": "Núcleo de Tecnologia",
+    "capacity": 50
+  },
+  {
+    "id": 2,
+    "title": "Palestra sobre Inteligência Artificial",
+    "description": "Palestra sobre aplicações de inteligência artificial.",
+    "date": "2026-09-20",
+    "time": "19:00",
+    "location": "Auditório Central",
+    "category": "Tecnologia",
+    "organizer": "Núcleo de Tecnologia",
+    "capacity": 100
+  }
+]
