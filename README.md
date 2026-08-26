@@ -65,6 +65,7 @@ Na pasta `backend`, crie um arquivo chamado `.env`.
 Adicione:
 
 ```env
+PORT=3000
 JWT_SECRET=sua_chave_secreta
 ```
 
