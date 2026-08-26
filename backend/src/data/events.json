@@ -2,23 +2,111 @@
   {
     "id": 1,
     "title": "Workshop de Desenvolvimento Web",
-    "description": "Workshop introdutório sobre desenvolvimento web.",
+    "description": "Workshop introdutório sobre desenvolvimento web com HTML, CSS, JavaScript e Vue.js.",
     "date": "2026-09-15",
     "time": "14:00",
     "location": "Universidade Federal do Ceará",
     "category": "Tecnologia",
     "organizer": "Núcleo de Tecnologia",
-    "capacity": 50
+    "capacity": 52
   },
   {
     "id": 2,
     "title": "Palestra sobre Inteligência Artificial",
-    "description": "Palestra sobre aplicações de inteligência artificial.",
+    "description": "Palestra sobre aplicações de inteligência artificial no mercado de trabalho.",
     "date": "2026-09-20",
     "time": "19:00",
     "location": "Auditório Central",
     "category": "Tecnologia",
     "organizer": "Núcleo de Tecnologia",
     "capacity": 100
+  },
+  {
+    "id": 3,
+    "title": "Festival de Música Universitária",
+    "description": "Festival com apresentações de bandas e artistas da comunidade universitária.",
+    "date": "2026-09-22",
+    "time": "18:00",
+    "location": "Centro de Convivência",
+    "category": "Cultura",
+    "organizer": "Diretório Central dos Estudantes",
+    "capacity": 300
+  },
+  {
+    "id": 4,
+    "title": "Campeonato Universitário de Futsal",
+    "description": "Competição esportiva entre equipes universitárias.",
+    "date": "2026-09-25",
+    "time": "09:00",
+    "location": "Ginásio Poliesportivo",
+    "category": "Esportes",
+    "organizer": "Atlética Universitária",
+    "capacity": 200
+  },
+  {
+    "id": 5,
+    "title": "Palestra sobre Empreendedorismo",
+    "description": "Discussão sobre empreendedorismo, inovação e criação de novos negócios.",
+    "date": "2026-10-02",
+    "time": "15:00",
+    "location": "Universidade Federal do Ceará",
+    "category": "Negócios",
+    "organizer": "Centro de Empreendedorismo",
+    "capacity": 80
+  },
+  {
+    "id": 6,
+    "title": "Curso de Programação em Python",
+    "description": "Curso prático de introdução à programação utilizando Python.",
+    "date": "2026-10-05",
+    "time": "08:00",
+    "location": "Laboratório de Informática",
+    "category": "Tecnologia",
+    "organizer": "Núcleo de Tecnologia",
+    "capacity": 40
+  },
+  {
+    "id": 7,
+    "title": "Seminário de Educação Inclusiva",
+    "description": "Seminário sobre acessibilidade, inclusão e novas práticas educacionais.",
+    "date": "2026-10-10",
+    "time": "10:00",
+    "location": "Auditório Central",
+    "category": "Educação",
+    "organizer": "Faculdade de Educação",
+    "capacity": 150
+  },
+  {
+    "id": 8,
+    "title": "Hackathon de Inovação",
+    "description": "Maratona de programação voltada para criação de soluções tecnológicas.",
+    "date": "2026-10-15",
+    "time": "08:00",
+    "location": "Universidade Federal do Ceará",
+    "category": "Tecnologia",
+    "organizer": "Núcleo de Tecnologia",
+    "capacity": 60
+  },
+  {
+    "id": 9,
+    "title": "Feira de Artesanato e Cultura",
+    "description": "Feira com artesanato, apresentações culturais e gastronomia regional.",
+    "date": "2026-10-18",
+    "time": "10:00",
+    "location": "Centro de Convivência",
+    "category": "Cultura",
+    "organizer": "Pró-Reitoria de Cultura",
+    "capacity": 250
+  },
+  {
+    "id": 10,
+    "title": "Corrida Universitária",
+    "description": "Evento esportivo aberto para estudantes, servidores e comunidade.",
+    "date": "2026-10-25",
+    "time": "06:30",
+    "location": "Campus do Pici",
+    "category": "Esportes",
+    "organizer": "Atlética Universitária",
+    "capacity": 500
   }
 ]
