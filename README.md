@@ -121,6 +121,21 @@ Terminal 2
 
 Depois de iniciar os dois serviços, acesse o endereço disponibilizado pelo frontend.
 
+
+## Usuários para teste
+
+| Nome          | E-mail                  | Senha    |
+|---------------|-------------------------|----------|
+| Mariana Silva | `mariana@email.com`     | `123456` |
+
+### Administrador
+
+| Nome           | E-mail                       | Senha      |
+|----------------|------------------------------|------------|
+| Professor Luiz | `professor.luiz@email.com`   | `admin123` |
+
+O usuário administrador possui acesso à área de gerenciamento de eventos, enquanto o usuário comum pode consultar eventos e realizar inscrições.
+
 ---
 
 # 2. Persona

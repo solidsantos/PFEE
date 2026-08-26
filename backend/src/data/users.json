@@ -1,16 +1,30 @@
 [
   {
     "id": 1,
-    "name": "Administrador",
-    "email": "admin@email.com",
-    "password": "123456",
-    "role": "admin"
-  },
-  {
-    "id": 2,
     "name": "Mariana Silva",
     "email": "mariana@email.com",
     "password": "123456",
     "role": "user"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Oliveira",
+    "email": "carlos@email.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Administrador",
+    "email": "admin@email.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "name": "Professor Luiz",
+    "email": "professor.luiz@email.com",
+    "password": "admin123",
+    "role": "admin"
   }
 ]
